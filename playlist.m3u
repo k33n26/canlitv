@@ -8,3 +8,18 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Viasat History" tvg-logo="logo" group-title="Belgesel",Viasat History
 https://nord.ayakkabiparti.lol/history/index.m3u8
+
+#EXTINF:-1 tvg-name="Flux Akasya Durağı" tvg-logo="logo" group-title="Sinema-Dizi",Flux Akasya Durağı
+https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="Bein Movies Turk" tvg-logo="logo" group-title="Sinema-Dizi",Bein Movies Turk
+https://nord.ayakkabiparti.lol/bsturk/index.m3u8
+
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="logo" group-title="Belgesel",Love Nature
+https://nord.ayakkabiparti.lol/lovenature/index.m3u8
+
+#EXTINF:-1 tvg-name="Now TV" tvg-logo="logo" group-title="Ulusal",Now TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:-1 tvg-name="TV8" tvg-logo="logo" group-title="Ulusal",TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8

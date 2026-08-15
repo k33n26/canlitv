@@ -1,8 +1,26 @@
-Cine 1|https://cine1.com.tr|Sinema|logo
-Tivi 6|https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8|Sinema|logo
+Cine 1|https://cine1.com.tr|Sinema-Dizi|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Cw9iLhbBxs6p0EmexByDiwlFidKf9_ufgnEM6JLYzx1rjMFuyJbsavlFimnEr2lfs4YjkUo8P2W2yDN-0YXZZxANSqOmWaeGKD8xleKk1D9Y5NPxE_Z3W3FDNADkFHUjRNHGGEm4z0mYncoRV1y-X7LtjTMAaACYcKi3V0K9ShRoZYY9b_ZzPsTM2hM/s1600/IMG_20241218_164902.png
+Tivi 6|https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8|Sinema-Dizi|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpQrr_VoTibaQ2rT5c-vyqFWjpDnFfnRQR3h08xG8_a4-m4su_zCQDYhZ1DFD6VRv_5RVYrkoJeGpGOrpU1KFGQTai2c2spK84iON3cw7_n0QQZbjsOSRI6zQ8hAA70XXXqQhsszifRBPr39CuidfXCXItMeFnA1HWPRm9rIQ7DY-5V-w9NlY-a3yOzEk/s200/channels4_profile.jpg
 Viasat History|https://nord.ayakkabiparti.lol/history/index.m3u8|Belgesel|logo
 Flux Akasya Durağı|https://a8.radyotelekom.com.tr:3232/stream/play.m3u8|Sinema-Dizi|logo
 Movie Smart Turk|https://nord.ayakkabiparti.lol/bsturk/index.m3u8|Sinema-Dizi|logo
 Love Nature|https://nord.ayakkabiparti.lol/lovenature/index.m3u8|Belgesel|logo
-Now TV|https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8|Ulusal|logo
-TV8|https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8|Ulusal|logo
+Now TV|https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8|Ulusal|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_XDMB_7fEupKloocg29fyN9EADdmOQsN_xwdBToPkeKoBBs-X9YiluU8guM06w0itLLZauUmYQab1VxRUgoeDm8eJgsDd04vXrvXy5gX95eEuyp3m2ckTqjZD6GZbYoGDu2OBIEqhJhPcULTd-3kdsjeGL9ZoovT3ocWnMCnJO2EiHxSOR0V7e2W-Tao/s1600/IMG_20240212_210346.png
+TV8|https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8|Ulusal|https://3.bp.blogspot.com/-FxSL_r7yYj8/XWKnFzAsoNI/AAAAAAAAANw/hPwGbsBRa2g9YNzEZp2TYEM0xPzfqNwSgCPcBGAYYCw/s1600/XYcyGNt.png
+Deniz Postası TV|https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8|Sinema-Dizi|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4g9Gbv26PofML3ZG606fDhWa0BJid6JTGY2FaqICtbXnACOtPqID2R3n7KiGODZbZYzBMLHPhCYU6V68leLYN0coEnWHGX0AFl9RdAR07mx28uzjhx7jY5rwlHo08EbANdE_TcCyoYGfzqSomnmJbMIyrRc5xMP8_P6UPi6Obi5sXqqyNz7_nLTs9vpY/s200/img_1_1734812505814.jpg
+Beyaz TV|https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|Ulusal|https://4.bp.blogspot.com/-IaNIJB3rfJg/XWKnF4gBLpI/AAAAAAAAANw/MN0d1vn44xonOW0VixIJix-1gdIMCOFqwCPcBGAYYCw/s1600/KhZb7Fy.png
+Kanal D|https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8|Ulusal|https://4.bp.blogspot.com/-vQooWv0h00g/XWKnFxNlwnI/AAAAAAAAANw/71SjWOwJFHIJ9zSqIlPrkz9O5rE5gSyYwCPcBGAYYCw/s1600/Kqf3nHy.png
+Show TV|https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web|Ulusal|https://2.bp.blogspot.com/-QXkqMTUMirQ/XWKnF3wGtYI/AAAAAAAAANs/Zes4zSA-W7YLX2s52g95_UdksktgY8vsgCPcBGAYYCw/s1600/llRSCAY.png
+Star TV|https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web|Ulusal|https://2.bp.blogspot.com/-c8lPaCU9buw/XWKnFxzL_wI/AAAAAAAAANs/z3alsVbZQyoR2RGvxUdI_k1ov-YA-pq9ACPcBGAYYCw/s1600/PbmIpfW.png
+ATV|https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8|Ulusal|https://2.bp.blogspot.com/-w81Vf6V8MZA/XWKnF3ivPoI/AAAAAAAAANs/oz2py9wxyVkwZT5Fz3iE8Z1Rs_zL5WVgACPcBGAYYCw/s1600/TL29td8.png
+Kanal 7|https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8|Ulusal|https://4.bp.blogspot.com/-ty1TwTWKJAY/XWKnF6zNUHI/AAAAAAAAAN0/vSDbHMU9T4wtP2QQU92ItYL3pT_S9PpiwCPcBGAYYCw/s1600/bazSl2z.png
+TV8,5|https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web|Ulusal|https://3.bp.blogspot.com/-FxSL_r7yYj8/XWKnFzAsoNI/AAAAAAAAANw/hPwGbsBRa2g9YNzEZp2TYEM0xPzfqNwSgCPcBGAYYCw/s1600/XYcyGNt.png
+GZT TV|https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8|Belgesel|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-Ax6SlzuxkJNIP6gERWC5Hidoh9GSBjMBMlrCIfrrhL_jWRRBfHYiEZqGe1yzLiYKjlaJGG0oA7J9t0w7_IdmmitoFnsRYQL9sINUOt3wkEpuXRrNWMqPlbDZPBk2yV-l37s0wLwW4MVI-teLkcDqzZeU7f1_t-uzvcpAk6npXc1gwTjznMafEURJHqw/s200/default-image.png
+Saban TV|https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8|Sinema-Dizi|https://4.bp.blogspot.com/-ypkF_crn7KQ/XjXl742_pyI/AAAAAAAAA2o/GD1Q09OZWBYsHW1nr1FVdXtzEWswshccACLcBGAsYHQ/s1600/PicsArt_02-01-09.54.06.png
+TV2|https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8|Ulusal|https://i.ibb.co/FbJ4yRTp/tv222.jpg
+a2|https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8|Ulusal|https://i.ibb.co/nMnQcL92/A2-logosu.jpg
+Bi Kanal|https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8|Sinema-Dizi|https://i.ibb.co/0VmKXWjL/bikanall.jpg
+Tabii TV|https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8|Sinema-Dizi|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCdjgs5tcuFBn_v9IJNRzlW2OUXrfnZWu8-bd7OdeNIkwQ8t9hOte3iYZqbpRhzBdDaPTFcfPQiUbuSaAtSUKmN6kFJE3cywQ7Kgq0MWH-_bl6f2dmCm4VfIN8n59HZf2SJM97woAeuP2gbu-IAwJ04DSzBE5MegGWfs0Mq-rVerVdN2KGRZjDJ-CaBRI/s1600/tabiittv.jpg
+
+
+
+

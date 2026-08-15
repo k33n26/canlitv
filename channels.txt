@@ -1,2 +1,3 @@
 Cine 1|https://cine1.com.tr|Sinema|logo
 Tivi 6|https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8|Sinema|logo
+Viasat History|https://nord.ayakkabiparti.lol/history/index.m3u8|Belgesel|logo

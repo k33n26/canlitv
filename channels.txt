@@ -22,13 +22,13 @@ Bi Kanal|https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8|Sinema-Dizi|https:/
 Tabii TV|https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8|Sinema-Dizi|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCdjgs5tcuFBn_v9IJNRzlW2OUXrfnZWu8-bd7OdeNIkwQ8t9hOte3iYZqbpRhzBdDaPTFcfPQiUbuSaAtSUKmN6kFJE3cywQ7Kgq0MWH-_bl6f2dmCm4VfIN8n59HZf2SJM97woAeuP2gbu-IAwJ04DSzBE5MegGWfs0Mq-rVerVdN2KGRZjDJ-CaBRI/s1600/tabiittv.jpg
 360 TV|https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8|Ulusal|https://4.bp.blogspot.com/-wz83rOfdt20/XXejf-6sATI/AAAAAAAAANg/5K4WXgg3Lz4GyPVj8JCWVYp7IQSKq2NVgCLcBGAs/s1600/PicsArt_09-10-03.21.18.jpg
 Cine-5 TV|https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8|Sinema-Dizi|https://4.bp.blogspot.com/-Tbhccd_1u3Y/XWKnF4WMu4I/AAAAAAAAAOM/_FyheXv_ZdsE3ZP9_Gi3llvURPFirwy0ACPcBGAYYCw/s1600/SZ3HBMY.png
-TRT-1|https://tv-trt1.medya.trt.com.tr/master.m3u8|Ulusal|https://1.bp.blogspot.com/-m8LQNdFt1Ck/XWKnF4Y18vI/AAAAAAAAANs/Lg6nSd6O5EUHKZLi4AN4ZF7JomtjKdU6QCPcBGAYYCw/s1600/TiKI58Y.jpg
-TRT-2|http://tv-trt2.medya.trt.com.tr/master.m3u8|Ulusal|https://4.bp.blogspot.com/-RnjR1K3zI-4/XXb2I6PIHfI/AAAAAAAAANU/yetjXwAEDnMD5Tw50xn60D5_8SCRUAFaACLcBGAs/s1600/PicsArt_09-09-04.07.32.jpg
+TRT-1|https://tv-trt1.medya.trt.com.tr/master_1440.m3u8|Ulusal|https://1.bp.blogspot.com/-m8LQNdFt1Ck/XWKnF4Y18vI/AAAAAAAAANs/Lg6nSd6O5EUHKZLi4AN4ZF7JomtjKdU6QCPcBGAYYCw/s1600/TiKI58Y.jpg
+TRT-2|http://tv-trt2.medya.trt.com.tr/master_1440.m3u8|Ulusal|https://4.bp.blogspot.com/-RnjR1K3zI-4/XXb2I6PIHfI/AAAAAAAAANU/yetjXwAEDnMD5Tw50xn60D5_8SCRUAFaACLcBGAs/s1600/PicsArt_09-09-04.07.32.jpg
 TRT-Genc|https://tv-trtgenc.medya.trt.com.tr/master.m3u8|Belgesel|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnIxzdYwzIpIWnp9C8owLmKZmEp5Rgm6299bGm4QBphYz2igsP8iLzyjWFPP5hgwZUTtnCI9raSrE3lB0eAZsBkoEXmj2xE_zuQl6sfyPK_Qgtea3_dANQOo9TUmZnek1VtQjaaAdFEQdZvdalf8CrJxsZCFiYp_p9iz_-yfKwHoJShXvAx_yUeajVI2o/s1600/trt-genc.png
 TYTTURK|https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8|Ulusal|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vGpqVdAbYfhL31ppvmr6Ul_Jk7lokDs-Mi8AkxoviRDe6mqNveogtLdpTHYkumkyV7W2KwhMSgmbZkkfuRL9QS2WvAP3n6IGuTLFz5JjhqpaYEi4XBYsSMb_kfFz-3fpTSQLJbF04A0hkFtdIv_1Eg8w0zPobacTa7M4UF7ezmHeC6MD6fLuDO4y2qU/s200/tyt_turk.jpg
 TRT-EBA|https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8|Egitim|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQLRjb0nLdkZUqKjcjnTwUicST8knWfkQkPxUgI2t7tBMooAAP8v1908zGKvswCH5HeaZoiXUS9JqU-7nVmdAnutWGNyn7Q6BM_bGzuErCp2HVwSehB41sv6ihmug5LwmaSacHkhqwaGVawOYbvZlnMFhcZCkPBmoLredXFPZYX_1jbljFmBThqO9Wir4/s200/channels4_profile.jpg
 Kanal B|https://tv.kanalb.tr/hls/kanalb/index.m3u8|Ulusal|https://1.bp.blogspot.com/-RPZECfW45sk/XZSVgfm9QRI/AAAAAAAAAXY/0wvC0rwq4isN316WtxRwXQMcEHjZpby9ACLcBGAsYHQ/s1600/PicsArt_10-02-02.15.42.png
-TRT-Haber|https://tv-trthaber.medya.trt.com.tr/master.m3u8|Haber|https://3.bp.blogspot.com/-M5lm_sjO1gs/XWKnF97s22I/AAAAAAAAANw/b38ITHvoy1kjq09OUBAr9CGKe4LWH8D4gCPcBGAYYCw/s1600/imXFgHH.png
+TRT-Haber|https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8|Haber|https://3.bp.blogspot.com/-M5lm_sjO1gs/XWKnF97s22I/AAAAAAAAANw/b38ITHvoy1kjq09OUBAr9CGKe4LWH8D4gCPcBGAYYCw/s1600/imXFgHH.png
 ASpor|https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8|Spor|logo
 HT Spor|https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8|Spor|logo
 HaberTurk|https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8|Haber|logo
@@ -49,13 +49,13 @@ CNBC-e|https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8|Haber|
 CGTN Documentary|https://dogusdyg-drone.lg.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8|Belgesel|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhC9-pDvSsPiOPhRPhTCwJHSVD6T0yhJtOiXktSHQkkGCaQDZSfj-5B83QSLl4NOyMXJpGbNeV0QhRktliJ8qMwzDtMPcHb9TM2OV3D47uxXBt6dJkrOFG71Cti_fImAbPI-tvyBhsuyjA4wvXIJEwxQhTPR3NpYDFIkGRo0lLAxzBhgKad2h8tkWwNf0/s1600/IMG_20251124_005442.png
 Saglik Channel|https://live.euromediacenter.com/saglikchannel/index.m3u8|Yerel|logo
 Mor TV|https://live.euromediacenter.com/tvmor/index.m3u8|Yerel|logo
-TRT-Belgesel|https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8|Belgesel|logo
-TRT-Diyanet Cocuk|https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8|Cocuk|logo
+TRT-Belgesel|https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8|Belgesel|logo
+TRT-Diyanet Cocuk|https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1440.m3u8|Cocuk|logo
 Minika Cocuk|https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8|Cocuk|logo
 Minika Go|https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8|Cocuk|logo
-TRT-Spor|https://tv-trtspor1.medya.trt.com.tr/master.m3u8|Spor|logo
-TRT-Spor Yıldız|https://tv-trtspor2.medya.trt.com.tr/master.m3u8|Spor|logo
-TRT-Muzik|https://tv-trtmuzik.medya.trt.com.tr/master.m3u8|Muzik|logo
+TRT-Spor|https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8|Spor|logo
+TRT-Spor Yıldız|https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8|Spor|logo
+TRT-Muzik|https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8|Muzik|logo
 Powerturk TV|https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8|Muzik|logo
 NUMBER ONE TÜRK|https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8|Muzik|logo
 NUMBER ONE TÜRK ASK|https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8|Muzik|logo
@@ -79,6 +79,8 @@ TLC|https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web|Belgesel|https://2.bp.bl
 Nat Geo Wild|https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natwild.m3u8|Belgesel|https://3.bp.blogspot.com/-LsGifjLkwYI/XWKnF8LAaXI/AAAAAAAAAOA/0fKaBjqrpWcVWGw_ywyfxJhlwR0AKYAeQCPcBGAYYCw/s1600/6kKfmpI.png
 Discovery Channel|https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/discoverychannel.m3u8|Belgesel|https://3.bp.blogspot.com/-Dl5LGZwajhU/XWKnFxp5qII/AAAAAAAAAOM/77b0Krt2vIk9Nuec0dCVY1kHCkciPDkkwCPcBGAYYCw/s1600/4qf9cDC.png
 TRT-Cocuk|https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8|Cocuk|https://3.bp.blogspot.com/-t2V_mQ5KMuE/XWKnF2EblpI/AAAAAAAAAOQ/Hfr-NKcRxGsrhMYHc-aa6meFe23NcumRACPcBGAYYCw/s1600/vvpV9hG.png
+Baby TV|https://saran-live.ercdn.net/babytv/index.m3u8|Cocuk|https://2.bp.blogspot.com/-qf2gsMbOZNc/Xmz_eFEhyaI/AAAAAAAAA_M/abhlyeFUmEcR0DKQGM94NI9No-AtdADKwCLcBGAsYHQ/s1600/61C2TSxmMwL._SY355_.jpeg
+Disney Junior TV|https://saran-live.ercdn.net/disneyjunior/index.m3u8|Cocuk|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyzqVv_vBiEGMXsTzySpX6Q3_dG3uk634guGi8o2feECRzPGCAbK2zz77HFp2xWRXw6bbuPlzs7R2qsGy9W3axcOA3vOiDZ-JbAo9lB23ZmGz5cDYOqj6rlt059YUkqQIG_A7tZWswWhq6W-awzQWm_wdpgoGvN5CkSrxVJYxXrFPomf02jje7CSBE1Z0/s1600/disneyjunior.jpg
 
 
 

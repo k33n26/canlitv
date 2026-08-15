@@ -4,7 +4,8 @@ import requests
 import yt_dlp
 
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "Referer": "https://www.google.com/"
 }
 
 def resolve_stream_url(url):
@@ -25,7 +26,28 @@ def resolve_stream_url(url):
             print(f"Cine1 hatası: {e}")
         return None
 
-    # 3. YouTube canlı yayınları / Canlı Akışlar (yt-dlp)
+    # 3. Duhnet Altyapısı (Duhnet CDN / Iframe ve Player Çözücü)
+    if "duhnet" in url or "beyaztv" in url or "kanal7" in url or "ulketv" in url:
+        try:
+            r = requests.get(url, headers=headers, timeout=10)
+            
+            # Doğrudan HTML içindeki duhnet.tv m3u8 bağlantılarını ara
+            match = re.search(r'(https?://[^\s"\'<>]*duhnet\.tv[^\s"\'<>]*\.m3u8[^\s"\'<>]*)', r.text)
+            if match:
+                return match.group(1).replace("&amp;", "&")
+
+            # Eğer iframe/player embed kullanılıyorsa iframe adresini çekip onun içindeki m3u8'i ara
+            iframe_match = re.search(r'src=["\'](https?://[^\s"\'<>]*duhnet[^\s"\'<>]+)["\']', r.text)
+            if iframe_match:
+                iframe_url = iframe_match.group(1)
+                r_iframe = requests.get(iframe_url, headers={"User-Agent": headers["User-Agent"], "Referer": url}, timeout=10)
+                m3u8_match = re.search(r'(https?://[^\s"\'<>]*\.m3u8[^\s"\'<>]*)', r_iframe.text)
+                if m3u8_match:
+                    return m3u8_match.group(1).replace("&amp;", "&")
+        except Exception as e:
+            print(f"Duhnet hatası ({url}): {e}")
+
+    # 4. YouTube / Dailymotion Canlı Yayınları (yt-dlp)
     if "youtube.com" in url or "youtu.be" in url or "dailymotion.com" in url:
         ydl_opts = {
             'quiet': True,
@@ -41,7 +63,7 @@ def resolve_stream_url(url):
             print(f"yt-dlp hatası ({url}): {e}")
         return None
 
-    # 4. Genel Regex Taraması (Web sitelerindeki gömülü m3u8 linklerini arar)
+    # 5. Genel Regex Taraması (Web sitelerindeki gömülü m3u8 linklerini arar)
     try:
         r = requests.get(url, headers=headers, timeout=10)
         match = re.search(r'(https?://[^\s"\'<>]+\.m3u8[^\s"\'<>]*)', r.text)

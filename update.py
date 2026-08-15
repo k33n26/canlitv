@@ -5,7 +5,7 @@ import yt_dlp
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-    "Referer": "https://www.google.com/"
+    "Referer": "https://www.cnnturk.com/"
 }
 
 def resolve_stream_url(url):
@@ -26,26 +26,33 @@ def resolve_stream_url(url):
             print(f"Cine1 hatası: {e}")
         return None
 
-    # 3. Duhnet Altyapısı (Duhnet CDN / Iframe ve Player Çözücü)
-    if "duhnet" in url or "beyaztv" in url or "kanal7" in url or "ulketv" in url:
+    # 3. Duhnet / CNN Türk / Kanal D Altyapısı (API + Regex Çözücü)
+    if "cnnturk" in url or "duhnet" in url:
         try:
+            # a) Doğrudan CNN Türk'ün canlı yayın servis API'sinden taze token'lı linki çekmeyi dene
+            api_url = "https://www.cnnturk.com/api/v1/live/stream"
+            r_api = requests.get(api_url, headers=headers, timeout=5)
+            if r_api.status_code == 200:
+                data = r_api.json()
+                # JSON içinde stream URL varsa onu döndür
+                if isinstance(data, dict) and "data" in data and "streamUrl" in data["data"]:
+                    return data["data"]["streamUrl"]
+
+            # b) API yanıt vermezse web sayfasını tara
             r = requests.get(url, headers=headers, timeout=10)
             
-            # Doğrudan HTML içindeki duhnet.tv m3u8 bağlantılarını ara
-            match = re.search(r'(https?://[^\s"\'<>]*duhnet\.tv[^\s"\'<>]*\.m3u8[^\s"\'<>]*)', r.text)
-            if match:
-                return match.group(1).replace("&amp;", "&")
+            # Token'lı duhnet m3u8 linki ara (?st= veya &st= içeren)
+            match_token = re.search(r'(https?://[^\s"\'<>]*duhnet\.tv[^\s"\'<>]*\.m3u8\?[^\s"\'<>]+)', r.text)
+            if match_token:
+                return match_token.group(1).replace("&amp;", "&")
 
-            # Eğer iframe/player embed kullanılıyorsa iframe adresini çekip onun içindeki m3u8'i ara
-            iframe_match = re.search(r'src=["\'](https?://[^\s"\'<>]*duhnet[^\s"\'<>]+)["\']', r.text)
-            if iframe_match:
-                iframe_url = iframe_match.group(1)
-                r_iframe = requests.get(iframe_url, headers={"User-Agent": headers["User-Agent"], "Referer": url}, timeout=10)
-                m3u8_match = re.search(r'(https?://[^\s"\'<>]*\.m3u8[^\s"\'<>]*)', r_iframe.text)
-                if m3u8_match:
-                    return m3u8_match.group(1).replace("&amp;", "&")
+            # Token'sız yalın m3u8 linki ara
+            match_plain = re.search(r'(https?://[^\s"\'<>]*duhnet\.tv[^\s"\'<>]*\.m3u8[^\s"\'<>]*)', r.text)
+            if match_plain:
+                return match_plain.group(1).replace("&amp;", "&")
+
         except Exception as e:
-            print(f"Duhnet hatası ({url}): {e}")
+            print(f"Duhnet/CNN Türk çözme hatası: {e}")
 
     # 4. YouTube / Dailymotion Canlı Yayınları (yt-dlp)
     if "youtube.com" in url or "youtu.be" in url or "dailymotion.com" in url:

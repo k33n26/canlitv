@@ -78,7 +78,7 @@ DMax|https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web|Belgesel|https://4.b
 TLC|https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web|Belgesel|https://2.bp.blogspot.com/-KmkMr-ch7eI/XWKnF4WwocI/AAAAAAAAANw/TTljzw5DP8QLDrKXZGzaO7PIG-kNfgj3wCPcBGAYYCw/s1600/QxDXu1Q.png
 Nat Geo Wild|https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natwild.m3u8|Belgesel|https://3.bp.blogspot.com/-LsGifjLkwYI/XWKnF8LAaXI/AAAAAAAAAOA/0fKaBjqrpWcVWGw_ywyfxJhlwR0AKYAeQCPcBGAYYCw/s1600/6kKfmpI.png
 Discovery Channel|https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/discoverychannel.m3u8|Belgesel|https://3.bp.blogspot.com/-Dl5LGZwajhU/XWKnFxp5qII/AAAAAAAAAOM/77b0Krt2vIk9Nuec0dCVY1kHCkciPDkkwCPcBGAYYCw/s1600/4qf9cDC.png
-
+TRT-Cocuk|https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8|Cocuk|https://3.bp.blogspot.com/-t2V_mQ5KMuE/XWKnF2EblpI/AAAAAAAAAOQ/Hfr-NKcRxGsrhMYHc-aa6meFe23NcumRACPcBGAYYCw/s1600/vvpV9hG.png
 
 
 

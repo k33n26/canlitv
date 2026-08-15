@@ -13,7 +13,7 @@ Show TV|https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web|Ulusal|http
 Star TV|https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web|Ulusal|https://2.bp.blogspot.com/-c8lPaCU9buw/XWKnFxzL_wI/AAAAAAAAANs/z3alsVbZQyoR2RGvxUdI_k1ov-YA-pq9ACPcBGAYYCw/s1600/PbmIpfW.png
 ATV|https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8|Ulusal|https://2.bp.blogspot.com/-w81Vf6V8MZA/XWKnF3ivPoI/AAAAAAAAANs/oz2py9wxyVkwZT5Fz3iE8Z1Rs_zL5WVgACPcBGAYYCw/s1600/TL29td8.png
 Kanal 7|https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8|Ulusal|https://4.bp.blogspot.com/-ty1TwTWKJAY/XWKnF6zNUHI/AAAAAAAAAN0/vSDbHMU9T4wtP2QQU92ItYL3pT_S9PpiwCPcBGAYYCw/s1600/bazSl2z.png
-TV8,5|https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web|Ulusal|https://3.bp.blogspot.com/-FxSL_r7yYj8/XWKnFzAsoNI/AAAAAAAAANw/hPwGbsBRa2g9YNzEZp2TYEM0xPzfqNwSgCPcBGAYYCw/s1600/XYcyGNt.png
+TV8,5|https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8|Ulusal|https://3.bp.blogspot.com/-FxSL_r7yYj8/XWKnFzAsoNI/AAAAAAAAANw/hPwGbsBRa2g9YNzEZp2TYEM0xPzfqNwSgCPcBGAYYCw/s1600/XYcyGNt.png
 GZT TV|https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8|Belgesel|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-Ax6SlzuxkJNIP6gERWC5Hidoh9GSBjMBMlrCIfrrhL_jWRRBfHYiEZqGe1yzLiYKjlaJGG0oA7J9t0w7_IdmmitoFnsRYQL9sINUOt3wkEpuXRrNWMqPlbDZPBk2yV-l37s0wLwW4MVI-teLkcDqzZeU7f1_t-uzvcpAk6npXc1gwTjznMafEURJHqw/s200/default-image.png
 Saban TV|https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8|Sinema-Dizi|https://4.bp.blogspot.com/-ypkF_crn7KQ/XjXl742_pyI/AAAAAAAAA2o/GD1Q09OZWBYsHW1nr1FVdXtzEWswshccACLcBGAsYHQ/s1600/PicsArt_02-01-09.54.06.png
 TV2|https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd|Ulusal|https://i.ibb.co/FbJ4yRTp/tv222.jpg
@@ -46,4 +46,67 @@ Flash Haber|https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8|Haber|l
 TBMM TV|https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8|Haber|logo
 Bloomberg HT|https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8|Haber|logo
 CNBC-e|https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8|Haber|logo
-CGTN Documentary|https://dogusdyg-drone.lg.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8|Belgesel|logo
+CGTN Documentary|https://dogusdyg-drone.lg.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8|Belgesel|https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhC9-pDvSsPiOPhRPhTCwJHSVD6T0yhJtOiXktSHQkkGCaQDZSfj-5B83QSLl4NOyMXJpGbNeV0QhRktliJ8qMwzDtMPcHb9TM2OV3D47uxXBt6dJkrOFG71Cti_fImAbPI-tvyBhsuyjA4wvXIJEwxQhTPR3NpYDFIkGRo0lLAxzBhgKad2h8tkWwNf0/s1600/IMG_20251124_005442.png
+Saglik Channel|https://live.euromediacenter.com/saglikchannel/index.m3u8|Yerel|logo
+Mor TV|https://live.euromediacenter.com/tvmor/index.m3u8|Yerel|logo
+TRT-Belgesel|https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8|Belgesel|logo
+TRT-Diyanet Cocuk|https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8|Cocuk|logo
+Minika Cocuk|https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8|Cocuk|logo
+Minika Go|https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8|Cocuk|logo
+TRT-Spor|https://tv-trtspor1.medya.trt.com.tr/master.m3u8|Spor|logo
+TRT-Spor Yıldız|https://tv-trtspor2.medya.trt.com.tr/master.m3u8|Spor|logo
+TRT-Muzik|https://tv-trtmuzik.medya.trt.com.tr/master.m3u8|Muzik|logo
+Powerturk TV|https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8|Muzik|logo
+NUMBER ONE TÜRK|https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8|Muzik|logo
+NUMBER ONE TÜRK ASK|https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8|Muzik|logo
+NUMBER ONE TÜRK RAP|https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8|Muzik|logo
+NUMBER ONE DANCE|https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8|Muzik|logo
+NUMBER ONE|https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8|Muzik|logo
+KANAL 7 Avrupa|https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8|Avrupa|logo
+Ciftci TV|https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8|Belgesel|https://1.bp.blogspot.com/-Cvm1GJpv06E/Xrnx-O4bLLI/AAAAAAAAAU4/pJ7xCfqIPAIeD0yRiOf6yHrdY93QOKTSQCK4BGAsYHg/PicsArt_05-12-02.32.22.png
+Diyanet TV|https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8|Dini|logo
+Semerkand TV|https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8|Dini|logo
+Dost TV|https://dost.stream.emsal.im/tv/live.m3u8|Dini|logo
+Rehber TV|https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8|Dini|logo
+Lalegul TV|https://lbl.netmedya.net/hls/lalegultv.m3u8|Dini|logo
+Showmax|https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8|Ulusal|logo
+TRT-Avaz|https://tv-trtavaz.medya.trt.com.tr/master.m3u8|Ulusal|logo
+Fx|https://saran-live.ercdn.net/fx/index.m3u8|Sinema-Dizi|logo
+NTV|https://dogus.daioncdn.net/ntv/ntv_720p.m3u8|Haber|logo
+National Geographic|https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natgeo.m3u8|Belgesel|https://3.bp.blogspot.com/-UgWlNSgQ64g/XWKnF_B-UoI/AAAAAAAAAOA/DdBguuKLhUA-GxY34O-p7O_T4f3A4RrZACPcBGAYYCw/s1600/Ds4ZLMA.png
+DMax|https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web|Belgesel|https://4.bp.blogspot.com/-JF-liJ8rmj8/XWKnFw5NTWI/AAAAAAAAANs/mi2fGXTL4zk_ESPb0lzoLQmAWVNQEvzjACPcBGAYYCw/s1600/hgkNZne.jpg
+TLC|https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web|Belgesel|https://2.bp.blogspot.com/-KmkMr-ch7eI/XWKnF4WwocI/AAAAAAAAANw/TTljzw5DP8QLDrKXZGzaO7PIG-kNfgj3wCPcBGAYYCw/s1600/QxDXu1Q.png
+Nat Geo Wild|https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natwild.m3u8|Belgesel|https://3.bp.blogspot.com/-LsGifjLkwYI/XWKnF8LAaXI/AAAAAAAAAOA/0fKaBjqrpWcVWGw_ywyfxJhlwR0AKYAeQCPcBGAYYCw/s1600/6kKfmpI.png
+Discovery Channel|https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/discoverychannel.m3u8|Belgesel|https://3.bp.blogspot.com/-Dl5LGZwajhU/XWKnFxp5qII/AAAAAAAAAOM/77b0Krt2vIk9Nuec0dCVY1kHCkciPDkkwCPcBGAYYCw/s1600/4qf9cDC.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

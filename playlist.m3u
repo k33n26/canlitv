@@ -73,10 +73,10 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="TRT-1" tvg-logo="https://1.bp.blogspot.com/-m8LQNdFt1Ck/XWKnF4Y18vI/AAAAAAAAANs/Lg6nSd6O5EUHKZLi4AN4ZF7JomtjKdU6QCPcBGAYYCw/s1600/TiKI58Y.jpg" group-title="Ulusal",TRT-1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:-1 tvg-name="TRT-2" tvg-logo="https://4.bp.blogspot.com/-RnjR1K3zI-4/XXb2I6PIHfI/AAAAAAAAANU/yetjXwAEDnMD5Tw50xn60D5_8SCRUAFaACLcBGAs/s1600/PicsArt_09-09-04.07.32.jpg" group-title="Ulusal",TRT-2
-http://tv-trt2.medya.trt.com.tr/master.m3u8
+http://tv-trt2.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:-1 tvg-name="TRT-Genc" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnIxzdYwzIpIWnp9C8owLmKZmEp5Rgm6299bGm4QBphYz2igsP8iLzyjWFPP5hgwZUTtnCI9raSrE3lB0eAZsBkoEXmj2xE_zuQl6sfyPK_Qgtea3_dANQOo9TUmZnek1VtQjaaAdFEQdZvdalf8CrJxsZCFiYp_p9iz_-yfKwHoJShXvAx_yUeajVI2o/s1600/trt-genc.png" group-title="Belgesel",TRT-Genc
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
@@ -91,7 +91,7 @@ https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 https://tv.kanalb.tr/hls/kanalb/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT-Haber" tvg-logo="https://3.bp.blogspot.com/-M5lm_sjO1gs/XWKnF97s22I/AAAAAAAAANw/b38ITHvoy1kjq09OUBAr9CGKe4LWH8D4gCPcBGAYYCw/s1600/imXFgHH.png" group-title="Haber",TRT-Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
+https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:-1 tvg-name="ASpor" tvg-logo="logo" group-title="Spor",ASpor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
@@ -154,10 +154,10 @@ https://live.euromediacenter.com/saglikchannel/index.m3u8
 https://live.euromediacenter.com/tvmor/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT-Belgesel" tvg-logo="logo" group-title="Belgesel",TRT-Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:-1 tvg-name="TRT-Diyanet Cocuk" tvg-logo="logo" group-title="Cocuk",TRT-Diyanet Cocuk
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:-1 tvg-name="Minika Cocuk" tvg-logo="logo" group-title="Cocuk",Minika Cocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
@@ -166,13 +166,13 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 
 #EXTINF:-1 tvg-name="TRT-Spor" tvg-logo="logo" group-title="Spor",TRT-Spor
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:-1 tvg-name="TRT-Spor Yıldız" tvg-logo="logo" group-title="Spor",TRT-Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:-1 tvg-name="TRT-Muzik" tvg-logo="logo" group-title="Muzik",TRT-Muzik
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:-1 tvg-name="Powerturk TV" tvg-logo="logo" group-title="Muzik",Powerturk TV
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
@@ -242,3 +242,9 @@ https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/discoverychannel.
 
 #EXTINF:-1 tvg-name="TRT-Cocuk" tvg-logo="https://3.bp.blogspot.com/-t2V_mQ5KMuE/XWKnF2EblpI/AAAAAAAAAOQ/Hfr-NKcRxGsrhMYHc-aa6meFe23NcumRACPcBGAYYCw/s1600/vvpV9hG.png" group-title="Cocuk",TRT-Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://2.bp.blogspot.com/-qf2gsMbOZNc/Xmz_eFEhyaI/AAAAAAAAA_M/abhlyeFUmEcR0DKQGM94NI9No-AtdADKwCLcBGAsYHQ/s1600/61C2TSxmMwL._SY355_.jpeg" group-title="Cocuk",Baby TV
+https://saran-live.ercdn.net/babytv/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Junior TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyzqVv_vBiEGMXsTzySpX6Q3_dG3uk634guGi8o2feECRzPGCAbK2zz77HFp2xWRXw6bbuPlzs7R2qsGy9W3axcOA3vOiDZ-JbAo9lB23ZmGz5cDYOqj6rlt059YUkqQIG_A7tZWswWhq6W-awzQWm_wdpgoGvN5CkSrxVJYxXrFPomf02jje7CSBE1Z0/s1600/disneyjunior.jpg" group-title="Cocuk",Disney Junior TV
+https://saran-live.ercdn.net/disneyjunior/index.m3u8

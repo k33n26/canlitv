@@ -1,0 +1,36 @@
+name: Cine1 M3U Guncelleyici
+
+on:
+  schedule:
+    # Her 3 saatte bir otomatik çalışır
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # GitHub üzerinden manuel çalıştırmak için
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repoyu Çek
+        uses: actions/checkout@v4
+
+      - name: Python 3.11 Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Gerekli Kütüphaneleri Yükle
+        run: pip install requests
+
+      - name: Python Scriptini Çalıştır
+        run: python update.py
+
+      - name: Güncellemeleri Repoya Commit Et ve Push Yap
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@github.com"
+          git add cine1.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Cine1 güncel M3U adresi yenilendi" && git push)

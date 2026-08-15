@@ -55,7 +55,7 @@ https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 
 #EXTINF:-1 tvg-name="TV2" tvg-logo="https://i.ibb.co/FbJ4yRTp/tv222.jpg" group-title="Ulusal",TV2
-https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 
 #EXTINF:-1 tvg-name="a2" tvg-logo="https://i.ibb.co/nMnQcL92/A2-logosu.jpg" group-title="Ulusal",a2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
@@ -65,3 +65,33 @@ https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 
 #EXTINF:-1 tvg-name="Tabii TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCdjgs5tcuFBn_v9IJNRzlW2OUXrfnZWu8-bd7OdeNIkwQ8t9hOte3iYZqbpRhzBdDaPTFcfPQiUbuSaAtSUKmN6kFJE3cywQ7Kgq0MWH-_bl6f2dmCm4VfIN8n59HZf2SJM97woAeuP2gbu-IAwJ04DSzBE5MegGWfs0Mq-rVerVdN2KGRZjDJ-CaBRI/s1600/tabiittv.jpg" group-title="Sinema-Dizi",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
+#EXTINF:-1 tvg-name="360 TV" tvg-logo="https://4.bp.blogspot.com/-wz83rOfdt20/XXejf-6sATI/AAAAAAAAANg/5K4WXgg3Lz4GyPVj8JCWVYp7IQSKq2NVgCLcBGAs/s1600/PicsArt_09-10-03.21.18.jpg" group-title="Ulusal",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Cine-5 TV" tvg-logo="https://4.bp.blogspot.com/-Tbhccd_1u3Y/XWKnF4WMu4I/AAAAAAAAAOM/_FyheXv_ZdsE3ZP9_Gi3llvURPFirwy0ACPcBGAYYCw/s1600/SZ3HBMY.png" group-title="Sinema-Dizi",Cine-5 TV
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="TRT-1" tvg-logo="https://1.bp.blogspot.com/-m8LQNdFt1Ck/XWKnF4Y18vI/AAAAAAAAANs/Lg6nSd6O5EUHKZLi4AN4ZF7JomtjKdU6QCPcBGAYYCw/s1600/TiKI58Y.jpg" group-title="Ulusal",TRT-1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT-2" tvg-logo="https://4.bp.blogspot.com/-RnjR1K3zI-4/XXb2I6PIHfI/AAAAAAAAANU/yetjXwAEDnMD5Tw50xn60D5_8SCRUAFaACLcBGAs/s1600/PicsArt_09-09-04.07.32.jpg" group-title="Ulusal",TRT-2
+http://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT-Genc" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnIxzdYwzIpIWnp9C8owLmKZmEp5Rgm6299bGm4QBphYz2igsP8iLzyjWFPP5hgwZUTtnCI9raSrE3lB0eAZsBkoEXmj2xE_zuQl6sfyPK_Qgtea3_dANQOo9TUmZnek1VtQjaaAdFEQdZvdalf8CrJxsZCFiYp_p9iz_-yfKwHoJShXvAx_yUeajVI2o/s1600/trt-genc.png" group-title="Belgesel",TRT-Genc
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TYTTURK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vGpqVdAbYfhL31ppvmr6Ul_Jk7lokDs-Mi8AkxoviRDe6mqNveogtLdpTHYkumkyV7W2KwhMSgmbZkkfuRL9QS2WvAP3n6IGuTLFz5JjhqpaYEi4XBYsSMb_kfFz-3fpTSQLJbF04A0hkFtdIv_1Eg8w0zPobacTa7M4UF7ezmHeC6MD6fLuDO4y2qU/s200/tyt_turk.jpg" group-title="Ulusal",TYTTURK
+https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
+
+#EXTINF:-1 tvg-name="TRT-EBA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQLRjb0nLdkZUqKjcjnTwUicST8knWfkQkPxUgI2t7tBMooAAP8v1908zGKvswCH5HeaZoiXUS9JqU-7nVmdAnutWGNyn7Q6BM_bGzuErCp2HVwSehB41sv6ihmug5LwmaSacHkhqwaGVawOYbvZlnMFhcZCkPBmoLredXFPZYX_1jbljFmBThqO9Wir4/s200/channels4_profile.jpg" group-title="Egitim",TRT-EBA
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="Kanal B" tvg-logo="https://1.bp.blogspot.com/-RPZECfW45sk/XZSVgfm9QRI/AAAAAAAAAXY/0wvC0rwq4isN316WtxRwXQMcEHjZpby9ACLcBGAsYHQ/s1600/PicsArt_10-02-02.15.42.png" group-title="Ulusal",Kanal B
+https://tv.kanalb.tr/hls/kanalb/index.m3u8
+
+#EXTINF:-1 tvg-name="TRT-Haber" tvg-logo="https://3.bp.blogspot.com/-M5lm_sjO1gs/XWKnF97s22I/AAAAAAAAANw/b38ITHvoy1kjq09OUBAr9CGKe4LWH8D4gCPcBGAYYCw/s1600/imXFgHH.png" group-title="Haber",TRT-Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="CNN Turk" tvg-logo="https://3.bp.blogspot.com/-Wo1hhFAH4IY/XWKnFzFsxfI/AAAAAAAAANs/WBTvodZryY0HEOP9GzKhe742E2vNM4lDACPcBGAYYCw/s1600/LPSLbUF.png" group-title="Haber",CNN Turk
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8

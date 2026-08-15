@@ -93,5 +93,56 @@ https://tv.kanalb.tr/hls/kanalb/index.m3u8
 #EXTINF:-1 tvg-name="TRT-Haber" tvg-logo="https://3.bp.blogspot.com/-M5lm_sjO1gs/XWKnF97s22I/AAAAAAAAANw/b38ITHvoy1kjq09OUBAr9CGKe4LWH8D4gCPcBGAYYCw/s1600/imXFgHH.png" group-title="Haber",TRT-Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="CNN Turk" tvg-logo="https://3.bp.blogspot.com/-Wo1hhFAH4IY/XWKnFzFsxfI/AAAAAAAAANs/WBTvodZryY0HEOP9GzKhe742E2vNM4lDACPcBGAYYCw/s1600/LPSLbUF.png" group-title="Haber",CNN Turk
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-name="ASpor" tvg-logo="logo" group-title="Spor",ASpor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 tvg-name="HT Spor" tvg-logo="logo" group-title="Spor",HT Spor
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
+
+#EXTINF:-1 tvg-name="HaberTurk" tvg-logo="logo" group-title="Haber",HaberTurk
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="logo" group-title="Haber",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Halk TV" tvg-logo="logo" group-title="Haber",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Ulke TV" tvg-logo="logo" group-title="Haber",Ulke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Ilke TV" tvg-logo="logo" group-title="Haber",Ilke TV
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+
+#EXTINF:-1 tvg-name="Meltem TV" tvg-logo="logo" group-title="Ulusal",Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Haber Global" tvg-logo="logo" group-title="Haber",Haber Global
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+
+#EXTINF:-1 tvg-name="Ekol TV" tvg-logo="logo" group-title="Sinema-Dizi",Ekol TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+
+#EXTINF:-1 tvg-name="MK Tv" tvg-logo="logo" group-title="Haber",MK Tv
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BenguTurk TV" tvg-logo="logo" group-title="Haber",BenguTurk TV
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+#EXTINF:-1 tvg-name="24" tvg-logo="logo" group-title="Haber",24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+
+#EXTINF:-1 tvg-name="Flash Haber" tvg-logo="logo" group-title="Haber",Flash Haber
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+
+#EXTINF:-1 tvg-name="TBMM TV" tvg-logo="logo" group-title="Haber",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg HT" tvg-logo="logo" group-title="Haber",Bloomberg HT
+https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 tvg-name="CNBC-e" tvg-logo="logo" group-title="Haber",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="logo" group-title="Belgesel",CGTN Documentary
+https://dogusdyg-drone.lg.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8

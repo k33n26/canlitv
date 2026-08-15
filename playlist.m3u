@@ -46,7 +46,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-name="TV8,5" tvg-logo="https://3.bp.blogspot.com/-FxSL_r7yYj8/XWKnFzAsoNI/AAAAAAAAANw/hPwGbsBRa2g9YNzEZp2TYEM0xPzfqNwSgCPcBGAYYCw/s1600/XYcyGNt.png" group-title="Ulusal",TV8,5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 
 #EXTINF:-1 tvg-name="GZT TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-Ax6SlzuxkJNIP6gERWC5Hidoh9GSBjMBMlrCIfrrhL_jWRRBfHYiEZqGe1yzLiYKjlaJGG0oA7J9t0w7_IdmmitoFnsRYQL9sINUOt3wkEpuXRrNWMqPlbDZPBk2yV-l37s0wLwW4MVI-teLkcDqzZeU7f1_t-uzvcpAk6npXc1gwTjznMafEURJHqw/s200/default-image.png" group-title="Belgesel",GZT TV
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
@@ -144,5 +144,98 @@ https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-name="CNBC-e" tvg-logo="logo" group-title="Haber",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
-#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="logo" group-title="Belgesel",CGTN Documentary
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhC9-pDvSsPiOPhRPhTCwJHSVD6T0yhJtOiXktSHQkkGCaQDZSfj-5B83QSLl4NOyMXJpGbNeV0QhRktliJ8qMwzDtMPcHb9TM2OV3D47uxXBt6dJkrOFG71Cti_fImAbPI-tvyBhsuyjA4wvXIJEwxQhTPR3NpYDFIkGRo0lLAxzBhgKad2h8tkWwNf0/s1600/IMG_20251124_005442.png" group-title="Belgesel",CGTN Documentary
 https://dogusdyg-drone.lg.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Saglik Channel" tvg-logo="logo" group-title="Yerel",Saglik Channel
+https://live.euromediacenter.com/saglikchannel/index.m3u8
+
+#EXTINF:-1 tvg-name="Mor TV" tvg-logo="logo" group-title="Yerel",Mor TV
+https://live.euromediacenter.com/tvmor/index.m3u8
+
+#EXTINF:-1 tvg-name="TRT-Belgesel" tvg-logo="logo" group-title="Belgesel",TRT-Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT-Diyanet Cocuk" tvg-logo="logo" group-title="Cocuk",TRT-Diyanet Cocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Minika Cocuk" tvg-logo="logo" group-title="Cocuk",Minika Cocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+
+#EXTINF:-1 tvg-name="Minika Go" tvg-logo="logo" group-title="Cocuk",Minika Go
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+
+#EXTINF:-1 tvg-name="TRT-Spor" tvg-logo="logo" group-title="Spor",TRT-Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT-Spor Yıldız" tvg-logo="logo" group-title="Spor",TRT-Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT-Muzik" tvg-logo="logo" group-title="Muzik",TRT-Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Powerturk TV" tvg-logo="logo" group-title="Muzik",Powerturk TV
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK" tvg-logo="logo" group-title="Muzik",NUMBER ONE TÜRK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK ASK" tvg-logo="logo" group-title="Muzik",NUMBER ONE TÜRK ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK RAP" tvg-logo="logo" group-title="Muzik",NUMBER ONE TÜRK RAP
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NUMBER ONE DANCE" tvg-logo="logo" group-title="Muzik",NUMBER ONE DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NUMBER ONE" tvg-logo="logo" group-title="Muzik",NUMBER ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KANAL 7 Avrupa" tvg-logo="logo" group-title="Avrupa",KANAL 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ciftci TV" tvg-logo="https://1.bp.blogspot.com/-Cvm1GJpv06E/Xrnx-O4bLLI/AAAAAAAAAU4/pJ7xCfqIPAIeD0yRiOf6yHrdY93QOKTSQCK4BGAsYHg/PicsArt_05-12-02.32.22.png" group-title="Belgesel",Ciftci TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Diyanet TV" tvg-logo="logo" group-title="Dini",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Semerkand TV" tvg-logo="logo" group-title="Dini",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dost TV" tvg-logo="logo" group-title="Dini",Dost TV
+https://dost.stream.emsal.im/tv/live.m3u8
+
+#EXTINF:-1 tvg-name="Rehber TV" tvg-logo="logo" group-title="Dini",Rehber TV
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Lalegul TV" tvg-logo="logo" group-title="Dini",Lalegul TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-name="Showmax" tvg-logo="logo" group-title="Ulusal",Showmax
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+
+#EXTINF:-1 tvg-name="TRT-Avaz" tvg-logo="logo" group-title="Ulusal",TRT-Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Fx" tvg-logo="logo" group-title="Sinema-Dizi",Fx
+https://saran-live.ercdn.net/fx/index.m3u8
+
+#EXTINF:-1 tvg-name="NTV" tvg-logo="logo" group-title="Haber",NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://3.bp.blogspot.com/-UgWlNSgQ64g/XWKnF_B-UoI/AAAAAAAAAOA/DdBguuKLhUA-GxY34O-p7O_T4f3A4RrZACPcBGAYYCw/s1600/Ds4ZLMA.png" group-title="Belgesel",National Geographic
+https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natgeo.m3u8
+
+#EXTINF:-1 tvg-name="DMax" tvg-logo="https://4.bp.blogspot.com/-JF-liJ8rmj8/XWKnFw5NTWI/AAAAAAAAANs/mi2fGXTL4zk_ESPb0lzoLQmAWVNQEvzjACPcBGAYYCw/s1600/hgkNZne.jpg" group-title="Belgesel",DMax
+https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
+
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://2.bp.blogspot.com/-KmkMr-ch7eI/XWKnF4WwocI/AAAAAAAAANw/TTljzw5DP8QLDrKXZGzaO7PIG-kNfgj3wCPcBGAYYCw/s1600/QxDXu1Q.png" group-title="Belgesel",TLC
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
+
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://3.bp.blogspot.com/-LsGifjLkwYI/XWKnF8LAaXI/AAAAAAAAAOA/0fKaBjqrpWcVWGw_ywyfxJhlwR0AKYAeQCPcBGAYYCw/s1600/6kKfmpI.png" group-title="Belgesel",Nat Geo Wild
+https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natwild.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://3.bp.blogspot.com/-Dl5LGZwajhU/XWKnFxp5qII/AAAAAAAAAOM/77b0Krt2vIk9Nuec0dCVY1kHCkciPDkkwCPcBGAYYCw/s1600/4qf9cDC.png" group-title="Belgesel",Discovery Channel
+https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/discoverychannel.m3u8

@@ -2,8 +2,8 @@ name: Cine1 M3U Guncelleyici
 
 on:
   schedule:
-    # Her 3 saatte bir otomatik çalışır
-    - cron: '0 */3 * * *'
+    # Her 1 saatte bir otomatik çalışır
+    - cron: '0 */1 * * *'
   workflow_dispatch: # GitHub üzerinden manuel çalıştırmak için
 
 permissions:

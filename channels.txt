@@ -1,1 +1,2 @@
 Cine 1|https://cine1.com.tr|Sinema|logo
+Tivi 6|https://tivi6.com.tr/sayfa/https-tivi6-com-tr-sayfa-canli-yayin|Sinema|logo

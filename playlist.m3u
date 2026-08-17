@@ -240,6 +240,9 @@ https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natwild.m3u8
 #EXTINF:-1 tvg-name="Nat Geo Wild(2)" tvg-logo="logo" group-title="Belgesel",Nat Geo Wild(2)
 https://65.108.239.207/natgeowild/index.m3u8
 
+#EXTINF:-1 tvg-name="Nat Geo Wild(3)" tvg-logo="logo" group-title="Belgesel",Nat Geo Wild(3)
+https://vavoo.biz-az.workers.dev/play/151923711672a921906b9e.m3u8
+
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="logo" group-title="Belgesel",Discovery Channel
 https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/discoverychannel.m3u8
 
@@ -323,3 +326,123 @@ https://65.108.239.207/cnn/index.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="logo" group-title="Cocuk",Cartoon Network
 https://65.108.239.207/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="Yeşilçam Tv" tvg-logo="logo" group-title="Sinema-Dizi",Yeşilçam Tv
+https://i41.ozelip.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="TV4" tvg-logo="logo" group-title="Sinema-Dizi",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+
+#EXTINF:-1 tvg-name="TeleON" tvg-logo="logo" group-title="Sinema-Dizi",TeleON
+https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunk.m3u8
+
+#EXTINF:-1 tvg-name="Bir TV" tvg-logo="logo" group-title="Yerel",Bir TV
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Trakya Türk" tvg-logo="logo" group-title="Sinema-Dizi",Trakya Türk
+https://live.euromediacenter.com/trakyaturk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Cennet Mahallesi" tvg-logo="logo" group-title="Sinema-Dizi",Cennet Mahallesi
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+
+#EXTINF:-1 tvg-name="FusionTV" tvg-logo="logo" group-title="Sinema-Dizi",FusionTV
+http://162.212.179.32/akamaissh101/ssh101/084952510aa/chunks.m3u8
+
+#EXTINF:-1 tvg-name="EM TV" tvg-logo="logo" group-title="Sinema-Dizi",EM TV
+http://162.212.179.32/akamaissh101/ssh101/egemenlik_milletin_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Cine5 Plus" tvg-logo="logo" group-title="Sinema-Dizi",Cine5 Plus
+http://162.212.179.32/akamaissh101/ssh101/cine5+/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Pati TV" tvg-logo="logo" group-title="Sinema-Dizi",Pati TV
+http://5.178.103.239:55/d/live/out.m3u8
+
+#EXTINF:-1 tvg-name="Göpsen Tv" tvg-logo="logo" group-title="Sinema-Dizi",Göpsen Tv
+https://canli.gopsentv.com:3604/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="SDM Sinema" tvg-logo="logo" group-title="Sinema-Dizi",SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Rize Turk" tvg-logo="logo" group-title="Sinema-Dizi",Rize Turk
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Diginet Sinema" tvg-logo="logo" group-title="Sinema-Dizi",Diginet Sinema
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="TRT Nostalji Dizi" tvg-logo="logo" group-title="Sinema-Dizi",TRT Nostalji Dizi
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+#EXTINF:-1 tvg-name="TVB" tvg-logo="logo" group-title="Sinema-Dizi",TVB
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="Serhat TV" tvg-logo="logo" group-title="Sinema-Dizi",Serhat TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/serhat_tv.m3u8
+
+#EXTINF:-1 tvg-name="Başka TV" tvg-logo="logo" group-title="Sinema-Dizi",Başka TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/baska_tv.m3u8
+
+#EXTINF:-1 tvg-name="FilmScreen İnternational" tvg-logo="logo" group-title="Sinema-Dizi",FilmScreen İnternational
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Planet Star" tvg-logo="logo" group-title="Sinema-Dizi",Planet Star
+http://162.212.179.32/akamaissh101/ssh101/inbox1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AKKON TV" tvg-logo="logo" group-title="Sinema-Dizi",AKKON TV
+https://ip.akkontv.com:3205/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="Telenews" tvg-logo="logo" group-title="Haber",Telenews
+https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="AS TV" tvg-logo="logo" group-title="Yerel",AS TV
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Egemax TV" tvg-logo="logo" group-title="Yerel",Egemax TV
+http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NEO" tvg-logo="logo" group-title="Yerel",NEO
+https://edge2.taksimbilisim.com/neohaber/bant1/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Ssport" tvg-logo="logo" group-title="Spor",Ssport
+https://corestream.siteyaptim.live/s-sport/index.m3u8
+
+#EXTINF:-1 tvg-name="Ssport2" tvg-logo="logo" group-title="Spor",Ssport2
+https://corestream.siteyaptim.live/s-sport2/index.m3u8
+
+#EXTINF:-1 tvg-name="SportTV-AZ" tvg-logo="logo" group-title="Spor",SportTV-AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/31926/index.m3u8
+
+#EXTINF:-1 tvg-name="Viyana TV" tvg-logo="logo" group-title="Avrupa",Viyana TV
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8?app=supersat_token_741852
+
+#EXTINF:-1 tvg-name="Bultürk TV" tvg-logo="logo" group-title="Yerel",Bultürk TV
+https://live.euromediacenter.com/bulturktv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="İsviçre TV" tvg-logo="logo" group-title="Sinema-Dizi",İsviçre TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Brüksel Türk" tvg-logo="logo" group-title="Avrupa",Brüksel Türk
+https://live.euromediacenter.com/brukselturk/index.m3u8
+
+#EXTINF:-1 tvg-name="TürkmenStar" tvg-logo="logo" group-title="Yerel",TürkmenStar
+https://live.euromediacenter.com/turkmenstartv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="MK Türk" tvg-logo="logo" group-title="Yerel",MK Türk
+https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Kanal ADA" tvg-logo="logo" group-title="Yerel",Kanal ADA
+http://ip252.ozelip.com:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Muğla Merkez TV" tvg-logo="logo" group-title="Yerel",Muğla Merkez TV
+https://ip100.radyotelekomtv.com:3689/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="Deniz TV" tvg-logo="logo" group-title="Sinema-Dizi",Deniz TV
+http://162.212.179.32/akamaissh101/ssh101/denizradyotv/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Agro TV" tvg-logo="logo" group-title="Yerel",Agro TV
+https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7f48a7b_output_0.m3u8?session=WiBL6q6PzoRV7DTJZaMvmo
+
+#EXTINF:-1 tvg-name="UygurNews TV" tvg-logo="logo" group-title="Sinema-Dizi",UygurNews TV
+https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="SiriusHD" tvg-logo="logo" group-title="Sinema-Dizi",SiriusHD
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/sirius.m3u8

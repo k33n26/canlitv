@@ -153,3 +153,6 @@ Agro TV|https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7
 UygurNews TV|https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist.m3u8|Sinema-Dizi|logo
 SiriusHD|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/sirius.m3u8|Sinema-Dizi|logo
 Van TV|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/van_tv.m3u8|Yerel|logo
+Kayseri TV|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/kayseri_tv.m3u8|Yerel|logo
+Nexus Channel|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/nexuschannel.m3u8|Yabancı|logo
+Pro TV|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/pro_tv.m3u8|Muzik|logo

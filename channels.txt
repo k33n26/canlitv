@@ -74,10 +74,12 @@ Fx|https://saran-live.ercdn.net/fx/index.m3u8|Sinema-Dizi|logo
 NTV|https://dogus.daioncdn.net/ntv/ntv_720p.m3u8|Haber|logo
 National Geographic|https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natgeo.m3u8|Belgesel|logo
 National Geographic(2)|https://65.108.239.207/natgeo/index.m3u8|Belgesel|logo
+National Geographic(3)|http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW|Belgesel|logo
 DMax|https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web|Belgesel|logo
 TLC|https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web|Belgesel|logo
 Nat Geo Wild|https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natwild.m3u8|Belgesel|logo
 Nat Geo Wild(2)|https://65.108.239.207/natgeowild/index.m3u8|Belgesel|logo
+Nat Geo Wild(3)|https://vavoo.biz-az.workers.dev/play/151923711672a921906b9e.m3u8|Belgesel|logo
 Discovery Channel|https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/discoverychannel.m3u8|Belgesel|logo
 TRT-Cocuk|https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8|Cocuk|logo
 Baby TV|https://saran-live.ercdn.net/babytv/index.m3u8|Cocuk|logo
@@ -107,24 +109,46 @@ SinemaTV 2|https://65.108.239.207/sinema2/index.m3u8|Sinema-Dizi|logo
 SinemaTV Komedi|SinemaTV|https://65.108.239.207/sinemakomedi/index.m3u8|Sinema-Dizi|logo|Sinema-Dizi|logo
 CNN Turk|https://65.108.239.207/cnn/index.m3u8|Haber|logo
 Cartoon Network|https://65.108.239.207/cartoonnetwork/index.m3u8|Cocuk|logo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Yeşilçam Tv|https://i41.ozelip.com:3764/hybrid/play.m3u8|Sinema-Dizi|logo
+TV4|https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8|Sinema-Dizi|logo
+TeleON|https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunk.m3u8|Sinema-Dizi|logo
+Bir TV|https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8|Yerel|logo
+Trakya Türk|https://live.euromediacenter.com/trakyaturk/tracks-v1a1/mono.m3u8|Sinema-Dizi|logo
+Cennet Mahallesi|https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8|Sinema-Dizi|logo
+FusionTV|http://162.212.179.32/akamaissh101/ssh101/084952510aa/chunks.m3u8|Sinema-Dizi|logo
+EM TV|http://162.212.179.32/akamaissh101/ssh101/egemenlik_milletin_tv/chunks.m3u8|Sinema-Dizi|logo
+Cine5 Plus|http://162.212.179.32/akamaissh101/ssh101/cine5+/chunks.m3u8|Sinema-Dizi|logo
+Pati TV|http://5.178.103.239:55/d/live/out.m3u8|Sinema-Dizi|logo
+Göpsen Tv|https://canli.gopsentv.com:3604/stream/play.m3u8|Sinema-Dizi|logo
+SDM Sinema|https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8|Sinema-Dizi|logo
+Rize Turk|https://yayin.rizeturk.com:3777/hybrid/play.m3u8|Sinema-Dizi|logo
+Diginet Sinema|https://a8.radyotelekom.com.tr:3276/stream/play.m3u8|Sinema-Dizi|logo
+TRT Nostalji Dizi|https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8|Sinema-Dizi|logo
+TVB|https://ip44.radyotelekomtv.com:3958/stream/play.m3u8|Sinema-Dizi|logo
+Serhat TV|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/serhat_tv.m3u8|Sinema-Dizi|logo
+Başka TV|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/baska_tv.m3u8|Sinema-Dizi|logo
+FilmScreen İnternational|https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8|Sinema-Dizi|logo
+Viasat Epic Drama|http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=1471701&extension=ts&play_token=POSWGUQYoB|Sinema-Dizi|logo
+Planet Star|http://162.212.179.32/akamaissh101/ssh101/inbox1/playlist.m3u8|Sinema-Dizi|logo
+AKKON TV|https://ip.akkontv.com:3205/stream/play.m3u8|Sinema-Dizi|logo
+Telenews|https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8|Haber|logo
+AS TV|https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8|Yerel|logo
+KRT|http://umperisn.mywire.org/index.php?id=594231&token=DeaTHLesS|Haber|logo
+Egemax TV|http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8|Yerel|logo
+NEO|https://edge2.taksimbilisim.com/neohaber/bant1/chunks.m3u8|Yerel|logo
+Bein Sports Haber|http://umperisn.mywire.org/index.php?id=620421&token=DeaTHLesS|Spor|logo
+Ssport|https://corestream.siteyaptim.live/s-sport/index.m3u8|Spor|logo
+Ssport2|https://corestream.siteyaptim.live/s-sport2/index.m3u8|Spor|logo
+SportTV-AZ|http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/31926/index.m3u8|Spor|logo
+Viyana TV|http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8?app=supersat_token_741852|Avrupa|logo
+Bultürk TV|https://live.euromediacenter.com/bulturktv/tracks-v1a1/mono.m3u8|Yerel|logo
+İsviçre TV|https://i41.ozelip.com:3269/hybrid/play.m3u8|Sinema-Dizi|logo
+Brüksel Türk|https://live.euromediacenter.com/brukselturk/index.m3u8|Avrupa|logo
+TürkmenStar|https://live.euromediacenter.com/turkmenstartv/tracks-v1a1/mono.m3u8|Yerel|logo
+MK Türk|https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8|Yerel|logo
+Kanal ADA|http://ip252.ozelip.com:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8|Yerel|logo
+Muğla Merkez TV|https://ip100.radyotelekomtv.com:3689/stream/play.m3u8|Yerel|logo
+Deniz TV|http://162.212.179.32/akamaissh101/ssh101/denizradyotv/chunks.m3u8|Sinema-Dizi|logo
+Agro TV|https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7f48a7b_output_0.m3u8?session=WiBL6q6PzoRV7DTJZaMvmo|Yerel|logo
+UygurNews TV|https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist.m3u8|Sinema-Dizi|logo
+SiriusHD|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/sirius.m3u8|Sinema-Dizi|logo

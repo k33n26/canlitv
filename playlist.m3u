@@ -1,30 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Cine 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Cw9iLhbBxs6p0EmexByDiwlFidKf9_ufgnEM6JLYzx1rjMFuyJbsavlFimnEr2lfs4YjkUo8P2W2yDN-0YXZZxANSqOmWaeGKD8xleKk1D9Y5NPxE_Z3W3FDNADkFHUjRNHGGEm4z0mYncoRV1y-X7LtjTMAaACYcKi3V0K9ShRoZYY9b_ZzPsTM2hM/s1600/IMG_20241218_164902.png" group-title="Sinema-Dizi",Cine 1
+#EXTINF:-1 tvg-name="Cine 1" tvg-logo="logo" group-title="Sinema-Dizi",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 
-#EXTINF:-1 tvg-name="Tivi 6" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpQrr_VoTibaQ2rT5c-vyqFWjpDnFfnRQR3h08xG8_a4-m4su_zCQDYhZ1DFD6VRv_5RVYrkoJeGpGOrpU1KFGQTai2c2spK84iON3cw7_n0QQZbjsOSRI6zQ8hAA70XXXqQhsszifRBPr39CuidfXCXItMeFnA1HWPRm9rIQ7DY-5V-w9NlY-a3yOzEk/s200/channels4_profile.jpg" group-title="Sinema-Dizi",Tivi 6
+#EXTINF:-1 tvg-name="Tivi 6" tvg-logo="logo" group-title="Sinema-Dizi",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-
-#EXTINF:-1 tvg-name="Viasat History" tvg-logo="logo" group-title="Belgesel",Viasat History
-https://nord.ayakkabiparti.lol/history/index.m3u8
 
 #EXTINF:-1 tvg-name="Flux Akasya Durağı" tvg-logo="logo" group-title="Sinema-Dizi",Flux Akasya Durağı
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 
+#EXTINF:-1 tvg-name="Bein Movies Turk" tvg-logo="logo" group-title="Sinema-Dizi",Bein Movies Turk
+https://65.108.239.207/bsturk/index.m3u8
+
 #EXTINF:-1 tvg-name="Movie Smart Turk" tvg-logo="logo" group-title="Sinema-Dizi",Movie Smart Turk
-https://nord.ayakkabiparti.lol/bsturk/index.m3u8
+https://65.108.239.207/mvturk/index.m3u8
 
-#EXTINF:-1 tvg-name="Love Nature" tvg-logo="logo" group-title="Belgesel",Love Nature
-https://nord.ayakkabiparti.lol/lovenature/index.m3u8
-
-#EXTINF:-1 tvg-name="Now TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_XDMB_7fEupKloocg29fyN9EADdmOQsN_xwdBToPkeKoBBs-X9YiluU8guM06w0itLLZauUmYQab1VxRUgoeDm8eJgsDd04vXrvXy5gX95eEuyp3m2ckTqjZD6GZbYoGDu2OBIEqhJhPcULTd-3kdsjeGL9ZoovT3ocWnMCnJO2EiHxSOR0V7e2W-Tao/s1600/IMG_20240212_210346.png" group-title="Ulusal",Now TV
+#EXTINF:-1 tvg-name="Now TV" tvg-logo="logo" group-title="Ulusal",Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:-1 tvg-name="TV8" tvg-logo="https://3.bp.blogspot.com/-FxSL_r7yYj8/XWKnFzAsoNI/AAAAAAAAANw/hPwGbsBRa2g9YNzEZp2TYEM0xPzfqNwSgCPcBGAYYCw/s1600/XYcyGNt.png" group-title="Ulusal",TV8
+#EXTINF:-1 tvg-name="TV8" tvg-logo="logo" group-title="Ulusal",TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 
-#EXTINF:-1 tvg-name="Deniz Postası TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4g9Gbv26PofML3ZG606fDhWa0BJid6JTGY2FaqICtbXnACOtPqID2R3n7KiGODZbZYzBMLHPhCYU6V68leLYN0coEnWHGX0AFl9RdAR07mx28uzjhx7jY5rwlHo08EbANdE_TcCyoYGfzqSomnmJbMIyrRc5xMP8_P6UPi6Obi5sXqqyNz7_nLTs9vpY/s200/img_1_1734812505814.jpg" group-title="Sinema-Dizi",Deniz Postası TV
+#EXTINF:-1 tvg-name="Deniz Postası TV" tvg-logo="logo" group-title="Sinema-Dizi",Deniz Postası TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Beyaz TV" tvg-logo="https://4.bp.blogspot.com/-IaNIJB3rfJg/XWKnF4gBLpI/AAAAAAAAANw/MN0d1vn44xonOW0VixIJix-1gdIMCOFqwCPcBGAYYCw/s1600/KhZb7Fy.png" group-title="Ulusal",Beyaz TV
@@ -48,10 +45,10 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-name="TV8,5" tvg-logo="https://3.bp.blogspot.com/-FxSL_r7yYj8/XWKnFzAsoNI/AAAAAAAAANw/hPwGbsBRa2g9YNzEZp2TYEM0xPzfqNwSgCPcBGAYYCw/s1600/XYcyGNt.png" group-title="Ulusal",TV8,5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 
-#EXTINF:-1 tvg-name="GZT TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-Ax6SlzuxkJNIP6gERWC5Hidoh9GSBjMBMlrCIfrrhL_jWRRBfHYiEZqGe1yzLiYKjlaJGG0oA7J9t0w7_IdmmitoFnsRYQL9sINUOt3wkEpuXRrNWMqPlbDZPBk2yV-l37s0wLwW4MVI-teLkcDqzZeU7f1_t-uzvcpAk6npXc1gwTjznMafEURJHqw/s200/default-image.png" group-title="Belgesel",GZT TV
+#EXTINF:-1 tvg-name="GZT TV" tvg-logo="logo" group-title="Belgesel",GZT TV
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Saban TV" tvg-logo="https://4.bp.blogspot.com/-ypkF_crn7KQ/XjXl742_pyI/AAAAAAAAA2o/GD1Q09OZWBYsHW1nr1FVdXtzEWswshccACLcBGAsYHQ/s1600/PicsArt_02-01-09.54.06.png" group-title="Sinema-Dizi",Saban TV
+#EXTINF:-1 tvg-name="Saban TV" tvg-logo="logo" group-title="Sinema-Dizi",Saban TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 
 #EXTINF:-1 tvg-name="TV2" tvg-logo="https://i.ibb.co/FbJ4yRTp/tv222.jpg" group-title="Ulusal",TV2
@@ -63,34 +60,34 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-name="Bi Kanal" tvg-logo="https://i.ibb.co/0VmKXWjL/bikanall.jpg" group-title="Sinema-Dizi",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 
-#EXTINF:-1 tvg-name="Tabii TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCdjgs5tcuFBn_v9IJNRzlW2OUXrfnZWu8-bd7OdeNIkwQ8t9hOte3iYZqbpRhzBdDaPTFcfPQiUbuSaAtSUKmN6kFJE3cywQ7Kgq0MWH-_bl6f2dmCm4VfIN8n59HZf2SJM97woAeuP2gbu-IAwJ04DSzBE5MegGWfs0Mq-rVerVdN2KGRZjDJ-CaBRI/s1600/tabiittv.jpg" group-title="Sinema-Dizi",Tabii TV
+#EXTINF:-1 tvg-name="Tabii TV" tvg-logo="logo" group-title="Sinema-Dizi",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 
-#EXTINF:-1 tvg-name="360 TV" tvg-logo="https://4.bp.blogspot.com/-wz83rOfdt20/XXejf-6sATI/AAAAAAAAANg/5K4WXgg3Lz4GyPVj8JCWVYp7IQSKq2NVgCLcBGAs/s1600/PicsArt_09-10-03.21.18.jpg" group-title="Ulusal",360 TV
+#EXTINF:-1 tvg-name="360 TV" tvg-logo="logo" group-title="Ulusal",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 
-#EXTINF:-1 tvg-name="Cine-5 TV" tvg-logo="https://4.bp.blogspot.com/-Tbhccd_1u3Y/XWKnF4WMu4I/AAAAAAAAAOM/_FyheXv_ZdsE3ZP9_Gi3llvURPFirwy0ACPcBGAYYCw/s1600/SZ3HBMY.png" group-title="Sinema-Dizi",Cine-5 TV
+#EXTINF:-1 tvg-name="Cine-5 TV" tvg-logo="logo" group-title="Sinema-Dizi",Cine-5 TV
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="TRT-1" tvg-logo="https://1.bp.blogspot.com/-m8LQNdFt1Ck/XWKnF4Y18vI/AAAAAAAAANs/Lg6nSd6O5EUHKZLi4AN4ZF7JomtjKdU6QCPcBGAYYCw/s1600/TiKI58Y.jpg" group-title="Ulusal",TRT-1
+#EXTINF:-1 tvg-name="TRT-1" tvg-logo="logo" group-title="Ulusal",TRT-1
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 
-#EXTINF:-1 tvg-name="TRT-2" tvg-logo="https://4.bp.blogspot.com/-RnjR1K3zI-4/XXb2I6PIHfI/AAAAAAAAANU/yetjXwAEDnMD5Tw50xn60D5_8SCRUAFaACLcBGAs/s1600/PicsArt_09-09-04.07.32.jpg" group-title="Ulusal",TRT-2
+#EXTINF:-1 tvg-name="TRT-2" tvg-logo="logo" group-title="Ulusal",TRT-2
 http://tv-trt2.medya.trt.com.tr/master_1440.m3u8
 
-#EXTINF:-1 tvg-name="TRT-Genc" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnIxzdYwzIpIWnp9C8owLmKZmEp5Rgm6299bGm4QBphYz2igsP8iLzyjWFPP5hgwZUTtnCI9raSrE3lB0eAZsBkoEXmj2xE_zuQl6sfyPK_Qgtea3_dANQOo9TUmZnek1VtQjaaAdFEQdZvdalf8CrJxsZCFiYp_p9iz_-yfKwHoJShXvAx_yUeajVI2o/s1600/trt-genc.png" group-title="Belgesel",TRT-Genc
-https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT-Genc" tvg-logo="logo" group-title="Belgesel",TRT-Genc
+https://tv-trtgenc.medya.trt.com.tr/master_1440.m3u8
 
-#EXTINF:-1 tvg-name="TYTTURK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vGpqVdAbYfhL31ppvmr6Ul_Jk7lokDs-Mi8AkxoviRDe6mqNveogtLdpTHYkumkyV7W2KwhMSgmbZkkfuRL9QS2WvAP3n6IGuTLFz5JjhqpaYEi4XBYsSMb_kfFz-3fpTSQLJbF04A0hkFtdIv_1Eg8w0zPobacTa7M4UF7ezmHeC6MD6fLuDO4y2qU/s200/tyt_turk.jpg" group-title="Ulusal",TYTTURK
+#EXTINF:-1 tvg-name="TYTTURK" tvg-logo="logo" group-title="Ulusal",TYTTURK
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 
-#EXTINF:-1 tvg-name="TRT-EBA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQLRjb0nLdkZUqKjcjnTwUicST8knWfkQkPxUgI2t7tBMooAAP8v1908zGKvswCH5HeaZoiXUS9JqU-7nVmdAnutWGNyn7Q6BM_bGzuErCp2HVwSehB41sv6ihmug5LwmaSacHkhqwaGVawOYbvZlnMFhcZCkPBmoLredXFPZYX_1jbljFmBThqO9Wir4/s200/channels4_profile.jpg" group-title="Egitim",TRT-EBA
+#EXTINF:-1 tvg-name="TRT-EBA" tvg-logo="logo" group-title="Egitim",TRT-EBA
 https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="Kanal B" tvg-logo="https://1.bp.blogspot.com/-RPZECfW45sk/XZSVgfm9QRI/AAAAAAAAAXY/0wvC0rwq4isN316WtxRwXQMcEHjZpby9ACLcBGAsYHQ/s1600/PicsArt_10-02-02.15.42.png" group-title="Ulusal",Kanal B
+#EXTINF:-1 tvg-name="Kanal B" tvg-logo="logo" group-title="Ulusal",Kanal B
 https://tv.kanalb.tr/hls/kanalb/index.m3u8
 
-#EXTINF:-1 tvg-name="TRT-Haber" tvg-logo="https://3.bp.blogspot.com/-M5lm_sjO1gs/XWKnF97s22I/AAAAAAAAANw/b38ITHvoy1kjq09OUBAr9CGKe4LWH8D4gCPcBGAYYCw/s1600/imXFgHH.png" group-title="Haber",TRT-Haber
+#EXTINF:-1 tvg-name="TRT-Haber" tvg-logo="logo" group-title="Haber",TRT-Haber
 https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8
 
 #EXTINF:-1 tvg-name="ASpor" tvg-logo="logo" group-title="Spor",ASpor
@@ -144,7 +141,7 @@ https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-name="CNBC-e" tvg-logo="logo" group-title="Haber",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
-#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhC9-pDvSsPiOPhRPhTCwJHSVD6T0yhJtOiXktSHQkkGCaQDZSfj-5B83QSLl4NOyMXJpGbNeV0QhRktliJ8qMwzDtMPcHb9TM2OV3D47uxXBt6dJkrOFG71Cti_fImAbPI-tvyBhsuyjA4wvXIJEwxQhTPR3NpYDFIkGRo0lLAxzBhgKad2h8tkWwNf0/s1600/IMG_20251124_005442.png" group-title="Belgesel",CGTN Documentary
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="logo" group-title="Belgesel",CGTN Documentary
 https://dogusdyg-drone.lg.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Saglik Channel" tvg-logo="logo" group-title="Yerel",Saglik Channel
@@ -195,7 +192,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 #EXTINF:-1 tvg-name="KANAL 7 Avrupa" tvg-logo="logo" group-title="Avrupa",KANAL 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ciftci TV" tvg-logo="https://1.bp.blogspot.com/-Cvm1GJpv06E/Xrnx-O4bLLI/AAAAAAAAAU4/pJ7xCfqIPAIeD0yRiOf6yHrdY93QOKTSQCK4BGAsYHg/PicsArt_05-12-02.32.22.png" group-title="Belgesel",Ciftci TV
+#EXTINF:-1 tvg-name="Ciftci TV" tvg-logo="logo" group-title="Belgesel",Ciftci TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Diyanet TV" tvg-logo="logo" group-title="Dini",Diyanet TV
@@ -225,26 +222,104 @@ https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-logo="logo" group-title="Haber",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://3.bp.blogspot.com/-UgWlNSgQ64g/XWKnF_B-UoI/AAAAAAAAAOA/DdBguuKLhUA-GxY34O-p7O_T4f3A4RrZACPcBGAYYCw/s1600/Ds4ZLMA.png" group-title="Belgesel",National Geographic
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="logo" group-title="Belgesel",National Geographic
 https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natgeo.m3u8
 
-#EXTINF:-1 tvg-name="DMax" tvg-logo="https://4.bp.blogspot.com/-JF-liJ8rmj8/XWKnFw5NTWI/AAAAAAAAANs/mi2fGXTL4zk_ESPb0lzoLQmAWVNQEvzjACPcBGAYYCw/s1600/hgkNZne.jpg" group-title="Belgesel",DMax
+#EXTINF:-1 tvg-name="National Geographic(2)" tvg-logo="logo" group-title="Belgesel",National Geographic(2)
+https://65.108.239.207/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-name="DMax" tvg-logo="logo" group-title="Belgesel",DMax
 https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://2.bp.blogspot.com/-KmkMr-ch7eI/XWKnF4WwocI/AAAAAAAAANw/TTljzw5DP8QLDrKXZGzaO7PIG-kNfgj3wCPcBGAYYCw/s1600/QxDXu1Q.png" group-title="Belgesel",TLC
+#EXTINF:-1 tvg-name="TLC" tvg-logo="logo" group-title="Belgesel",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
 
-#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="https://3.bp.blogspot.com/-LsGifjLkwYI/XWKnF8LAaXI/AAAAAAAAAOA/0fKaBjqrpWcVWGw_ywyfxJhlwR0AKYAeQCPcBGAYYCw/s1600/6kKfmpI.png" group-title="Belgesel",Nat Geo Wild
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-logo="logo" group-title="Belgesel",Nat Geo Wild
 https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natwild.m3u8
 
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://3.bp.blogspot.com/-Dl5LGZwajhU/XWKnFxp5qII/AAAAAAAAAOM/77b0Krt2vIk9Nuec0dCVY1kHCkciPDkkwCPcBGAYYCw/s1600/4qf9cDC.png" group-title="Belgesel",Discovery Channel
+#EXTINF:-1 tvg-name="Nat Geo Wild(2)" tvg-logo="logo" group-title="Belgesel",Nat Geo Wild(2)
+https://65.108.239.207/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="logo" group-title="Belgesel",Discovery Channel
 https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/discoverychannel.m3u8
 
-#EXTINF:-1 tvg-name="TRT-Cocuk" tvg-logo="https://3.bp.blogspot.com/-t2V_mQ5KMuE/XWKnF2EblpI/AAAAAAAAAOQ/Hfr-NKcRxGsrhMYHc-aa6meFe23NcumRACPcBGAYYCw/s1600/vvpV9hG.png" group-title="Cocuk",TRT-Cocuk
+#EXTINF:-1 tvg-name="TRT-Cocuk" tvg-logo="logo" group-title="Cocuk",TRT-Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8
 
-#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://2.bp.blogspot.com/-qf2gsMbOZNc/Xmz_eFEhyaI/AAAAAAAAA_M/abhlyeFUmEcR0DKQGM94NI9No-AtdADKwCLcBGAsYHQ/s1600/61C2TSxmMwL._SY355_.jpeg" group-title="Cocuk",Baby TV
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="logo" group-title="Cocuk",Baby TV
 https://saran-live.ercdn.net/babytv/index.m3u8
 
-#EXTINF:-1 tvg-name="Disney Junior TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyzqVv_vBiEGMXsTzySpX6Q3_dG3uk634guGi8o2feECRzPGCAbK2zz77HFp2xWRXw6bbuPlzs7R2qsGy9W3axcOA3vOiDZ-JbAo9lB23ZmGz5cDYOqj6rlt059YUkqQIG_A7tZWswWhq6W-awzQWm_wdpgoGvN5CkSrxVJYxXrFPomf02jje7CSBE1Z0/s1600/disneyjunior.jpg" group-title="Cocuk",Disney Junior TV
+#EXTINF:-1 tvg-name="Disney Junior TV" tvg-logo="logo" group-title="Cocuk",Disney Junior TV
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
+#EXTINF:-1 tvg-name="Euro D" tvg-logo="logo" group-title="Avrupa",Euro D
+http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kanal Avrupa" tvg-logo="logo" group-title="Avrupa",Kanal Avrupa
+http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="logo" group-title="Belgesel",BBC Earth
+http://65.108.239.207/bbc/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="logo" group-title="Belgesel",Discovery ID
+http://65.108.239.207/discs/index.m3u8
+
+#EXTINF:-1 tvg-name="DocuScreen" tvg-logo="logo" group-title="Belgesel",DocuScreen
+http://65.108.239.207/docubox/index.m3u8
+
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="logo" group-title="Belgesel",Love Nature
+http://65.108.239.207/lovenature/index.m3u8
+
+#EXTINF:-1 tvg-name="Tarih TV" tvg-logo="logo" group-title="Belgesel",Tarih TV
+http://65.108.239.207/lovenature/index.m3u8
+
+#EXTINF:-1 tvg-name="Viasat History" tvg-logo="logo" group-title="Belgesel",Viasat History
+http://65.108.239.207/viasathistory/index.m3u8
+
+#EXTINF:-1 tvg-name="Viasat History(2)" tvg-logo="logo" group-title="Belgesel",Viasat History(2)
+https://65.108.239.207/history/index.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu Spor1" tvg-logo="logo" group-title="Spor",Tivibu Spor1
+http://65.108.239.207/t1/index.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu Spor2" tvg-logo="logo" group-title="Spor",Tivibu Spor2
+http://65.108.239.207/t2/index.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu Spor3" tvg-logo="logo" group-title="Spor",Tivibu Spor3
+http://65.108.239.207/t3/index.m3u8
+
+#EXTINF:-1 tvg-name="Tivibu Spor4" tvg-logo="logo" group-title="Spor",Tivibu Spor4
+http://65.108.239.207/t4/index.m3u8
+
+#EXTINF:-1 tvg-name="SporSmart1" tvg-logo="logo" group-title="Spor",SporSmart1
+https://65.108.239.207/smart1/index.m3u8
+
+#EXTINF:-1 tvg-name="SporSmart1" tvg-logo="logo" group-title="Spor",SporSmart1
+https://65.108.239.207/smart2/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport1" tvg-logo="logo" group-title="Spor",EuroSport1
+https://65.108.239.207/euro11/index.m3u8
+
+#EXTINF:-1 tvg-name="EuroSport2" tvg-logo="logo" group-title="Spor",EuroSport2
+https://65.108.239.207/euro22/index.m3u8
+
+#EXTINF:-1 tvg-name="FB TV" tvg-logo="logo" group-title="Spor",FB TV
+https://65.108.239.207/fbtv/index.m3u8
+
+#EXTINF:-1 tvg-name="SinemaTV Aile" tvg-logo="logo" group-title="Sinema-Dizi",SinemaTV Aile
+https://65.108.239.207/sinemaaile/index.m3u8
+
+#EXTINF:-1 tvg-name="SinemaTV Aksiyon" tvg-logo="logo" group-title="Sinema-Dizi",SinemaTV Aksiyon
+https://65.108.239.207/sinemaaksiyon/index.m3u8
+
+#EXTINF:-1 tvg-name="SinemaTV" tvg-logo="logo" group-title="Sinema-Dizi",SinemaTV
+https://65.108.239.207/sinema/index.m3u8
+
+#EXTINF:-1 tvg-name="SinemaTV 2" tvg-logo="logo" group-title="Sinema-Dizi",SinemaTV 2
+https://65.108.239.207/sinema2/index.m3u8
+
+#EXTINF:-1 tvg-name="CNN Turk" tvg-logo="logo" group-title="Haber",CNN Turk
+https://65.108.239.207/cnn/index.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="logo" group-title="Cocuk",Cartoon Network
+https://65.108.239.207/cartoonnetwork/index.m3u8

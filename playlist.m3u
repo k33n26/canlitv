@@ -449,3 +449,12 @@ https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/sirius
 
 #EXTINF:-1 tvg-name="Van TV" tvg-logo="logo" group-title="Yerel",Van TV
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/van_tv.m3u8
+
+#EXTINF:-1 tvg-name="Kayseri TV" tvg-logo="logo" group-title="Yerel",Kayseri TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/kayseri_tv.m3u8
+
+#EXTINF:-1 tvg-name="Nexus Channel" tvg-logo="logo" group-title="Yabancı",Nexus Channel
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/nexuschannel.m3u8
+
+#EXTINF:-1 tvg-name="Pro TV" tvg-logo="logo" group-title="Muzik",Pro TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/pro_tv.m3u8

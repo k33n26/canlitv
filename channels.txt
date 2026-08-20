@@ -157,5 +157,8 @@ Kayseri TV|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/
 Nexus Channel|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/nexuschannel.m3u8|Yabancı|logo
 Pro TV|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/pro_tv.m3u8|Muzik|logo
 Yol TV|https://www.yoltv.com/live.php|Yerel|logo
-SZC TV|https://vavoo.k33n26.workers.dev/play/1098172953a40c7864dfeb|Haber|logo
+SZC TV|http://5.178.103.239:55/yt1/szctv.m3u8|Haber|logo
+SZC TV(1)|https://vavoo.k33n26.workers.dev/play/1098172953a40c7864dfeb|Haber|logo
 SZC TV(2)|https://vavoo.k33n26.workers.dev/play/2036794972b992547192b9|Haber|logo
+Tabii Spor|https://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1440p.m3u8|Spor|logo
+Boncuk TV|http://104.238.23.191/BoncukTV/live/index.m3u8|Sinema-Dizi|logo

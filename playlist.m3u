@@ -458,3 +458,12 @@ https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/nexusc
 
 #EXTINF:-1 tvg-name="Pro TV" tvg-logo="logo" group-title="Muzik",Pro TV
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/pro_tv.m3u8
+
+#EXTINF:-1 tvg-name="SZC TV" tvg-logo="logo" group-title="Haber",SZC TV
+http://5.178.103.239:55/yt1/szctv.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor" tvg-logo="logo" group-title="Spor",Tabii Spor
+https://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1440p.m3u8
+
+#EXTINF:-1 tvg-name="Boncuk TV" tvg-logo="logo" group-title="Sinema-Dizi",Boncuk TV
+http://104.238.23.191/BoncukTV/live/index.m3u8

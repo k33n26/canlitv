@@ -470,3 +470,24 @@ http://104.238.23.191/BoncukTV/live/index.m3u8
 
 #EXTINF:-1 tvg-name="viju Nature" tvg-logo="logo" group-title="Yabancı",viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="viju Explore" tvg-logo="logo" group-title="Yabancı",viju Explore
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="viju History" tvg-logo="logo" group-title="Yabancı",viju History
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Travel Channel HD" tvg-logo="logo" group-title="Yabancı",Travel Channel HD
+http://pvr-spb-08.tlgx.ru:8987/CH_S08_RST_LEGTV_TRAVEL_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-name="T24" tvg-logo="logo" group-title="Yabancı",T24
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Adventure HD(rus)" tvg-logo="logo" group-title="Yabancı",Adventure HD(rus)
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="History" tvg-logo="logo" group-title="Yabancı",History
+https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Estate TV" tvg-logo="logo" group-title="Yabancı",Estate TV
+https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8

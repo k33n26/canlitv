@@ -163,3 +163,12 @@ SZC TV(2)|https://vavoo.k33n26.workers.dev/play/2036794972b992547192b9|Haber|log
 Tabii Spor|https://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1440p.m3u8|Spor|logo
 Boncuk TV|http://104.238.23.191/BoncukTV/live/index.m3u8|Sinema-Dizi|logo
 viju Nature|https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8|Yabancı|logo
+viju Explore|https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8|Yabancı|logo
+viju History|https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8|Yabancı|logo
+Travel Channel HD|http://pvr-spb-08.tlgx.ru:8987/CH_S08_RST_LEGTV_TRAVEL_CHANNEL/index.m3u8|Yabancı|logo
+T24|https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8|Yabancı|logo
+Adventure HD(rus)|https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8|Yabancı|logo
+History|https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8|Yabancı|logo
+Estate TV|https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8|Yabancı|logo
+
+

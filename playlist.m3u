@@ -467,3 +467,6 @@ https://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1440p.m3u8
 
 #EXTINF:-1 tvg-name="Boncuk TV" tvg-logo="logo" group-title="Sinema-Dizi",Boncuk TV
 http://104.238.23.191/BoncukTV/live/index.m3u8
+
+#EXTINF:-1 tvg-name="viju Nature" tvg-logo="logo" group-title="Yabancı",viju Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8

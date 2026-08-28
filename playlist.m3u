@@ -491,3 +491,21 @@ https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Estate TV" tvg-logo="logo" group-title="Yabancı",Estate TV
 https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="TPA Online" tvg-logo="logo" group-title="Yabancı",TPA Online
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/tpa_online.m3u8
+
+#EXTINF:-1 tvg-name="LVdiez" tvg-logo="logo" group-title="Yabancı",LVdiez
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/lvdiez.m3u8
+
+#EXTINF:-1 tvg-name="TeleMEDELLIN" tvg-logo="logo" group-title="Yabancı",TeleMEDELLIN
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/telemedellin.m3u8
+
+#EXTINF:-1 tvg-name="vtvCanal8" tvg-logo="logo" group-title="Yabancı",vtvCanal8
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/vtvcanal8.m3u8
+
+#EXTINF:-1 tvg-name="canalC Arg" tvg-logo="logo" group-title="Yabancı",canalC Arg
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/canalc.m3u8
+
+#EXTINF:-1 tvg-name="sfguru" tvg-logo="logo" group-title="Yabancı",sfguru
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/sfguru18.m3u8

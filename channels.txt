@@ -170,5 +170,9 @@ T24|https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8|Yabancı|logo
 Adventure HD(rus)|https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8|Yabancı|logo
 History|https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8|Yabancı|logo
 Estate TV|https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8|Yabancı|logo
-
-
+TPA Online|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/tpa_online.m3u8|Yabancı|logo
+LVdiez|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/lvdiez.m3u8|Yabancı|logo
+TeleMEDELLIN|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/telemedellin.m3u8|Yabancı|logo
+vtvCanal8|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/vtvcanal8.m3u8|Yabancı|logo
+canalC Arg|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/canalc.m3u8|Yabancı|logo
+sfguru|https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/sfguru18.m3u8|Yabancı|logo
